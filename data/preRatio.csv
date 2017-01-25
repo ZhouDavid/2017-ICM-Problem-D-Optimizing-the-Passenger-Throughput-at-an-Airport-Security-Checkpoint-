@@ -1,0 +1,4 @@
+,pre:regu = 1:5,pre:regu = 2:4,pre:regu = 3:3,pre:regu = 4:2,pre:regu = 5:1
+"wait in time variance					",430.0136725,349.5594349,350.2482141,351.2409521,
+"throughput					",2.691542202,2.643144853,3.182711198,2.226453451,
+variance/throughput,,,,,
